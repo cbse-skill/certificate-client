@@ -1,0 +1,17 @@
+.dashboard-wrapper {
+  width: calc(100% - 350px);
+}
+
+.wrapper {
+  position: fixed;
+  top: 90px;
+  left: 231px;
+  padding: 24px;
+  right: 350px;
+  bottom: 0px;
+  width: calc(100% - 231px);
+  background-color: #e4ebee;
+  overflow: auto;
+}
+
+/*# sourceMappingURL=Layout.css.map */

@@ -1,0 +1,73 @@
+ .downloadButtonImageSize {
+  height: 16px !important;
+  width: 16px !important;
+  margin-bottom: 4px !important;
+  margin-left: 4px !important;
+  cursor: pointer !important;
+  margin-bottom: 5px !important;
+}
+.uploadButtonImageSize {
+   height: 16px !important;
+  width: 16px !important;
+}
+.addButtonImageSize {
+  height: 28px !important;
+  width: 28px !important;
+  cursor: pointer;
+}
+.viewButtonImageSize {
+  height: 14px !important;
+  width: 16px !important;
+   cursor: pointer !important;
+}
+.viewAllButtonImageSize {
+  height: 10px !important;
+  width: 12px !important;
+  cursor: pointer;
+}
+.editButtonImageSize {
+  height: 14px !important;
+  width: 14px !important;
+  /* margin-top: 4px; */
+}
+.deleteButtonImageSize {
+  height: 16px !important;
+  width: 14px !important;
+  cursor: pointer;
+}
+.closeButtonImageSize {
+  height: 24px !important;
+  width: 24px !important;
+  cursor: pointer;
+}
+.playButtonImageSize {
+  height: 16px !important;
+  width: 16px !important;
+  cursor: pointer;
+}
+.checkedButtonImageSize {
+  height: 14px !important;
+  width: 14px !important;
+  /* // cursor: pointer; */
+}
+.plusButtonImageSize {
+  height: 32px !important;
+  width: 32px !important;
+  cursor: pointer;
+}
+.minusButtonImageSize {
+  height: 32px !important;
+  width: 32px !important;
+  cursor: pointer;
+}
+.newButtonImageSize {
+  height: 34px !important;
+  width: 40px !important;
+  margin-top: -9px !important;
+  margin-bottom: -16px !important;
+  margin-left: 10px !important;
+}
+.addButton {
+  padding: 0px !important;
+  height: 30px !important;
+}
