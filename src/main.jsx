@@ -11,7 +11,6 @@ createRoot(document.getElementById('root')).render(
     <LoadingContextProvider>
       <ToastContainer />    
       <App />
-      {/* ewk */}
     </LoadingContextProvider>
   </StrictMode>,
 )
