@@ -18,7 +18,7 @@ export default function HomePageContainer() {
               <CardMedia
                 component="img"
                 height="100"
-                image="../src/assets/images/certificate-gradient.png"
+                image="/assets/images/certificate-gradient.png"
                 alt="green iguana"
                 sx={{objectFit : "contain"}}
               />
@@ -36,7 +36,7 @@ export default function HomePageContainer() {
               <CardMedia
                 component="img"
                 height="100"
-                image="../src/assets/images/participant.png"
+                image="/assets/images/participant.png"
                 alt="green iguana"
                 sx={{objectFit : "contain"}}
               />
