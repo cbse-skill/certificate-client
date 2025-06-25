@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --mode development",
-    "build:vercel": "vite build",
+    "build:vercel": "vite build --mode vercel",
     "build:staging": "vite build --mode staging",
     "build:production": "vite build --mode production",
     "lint": "eslint .",
